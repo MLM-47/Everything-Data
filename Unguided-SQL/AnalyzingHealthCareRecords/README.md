@@ -21,12 +21,12 @@ The objectives of this analysis is to identify the most used medication to treat
 2. What is the blood group distribution by gender?
 3. Which medical condition had the highest number of cases recorded?
 4. What is the admission type applied to each medical condition?
-5. How many obesity cases were recorded per hospital? 
+5. How many obesity cases were recorded per hospital?
 6. How many cancer cases were recorded per hospital?
-7.How many Hypertension cases were recorded per hospital?
-8.How many Arthritis cases were recorded per hospital?
-9.How many Asthma cases were recorded per hospital?
-10.How many Diabetes cases were recorded per hospital?
+7. How many Hypertension cases were recorded per hospital?
+8. How many Arthritis cases were recorded per hospital?
+9. How many Asthma cases were recorded per hospital?
+10. How many Diabetes cases were recorded per hospital?
 11. What is the evarage billing amount for each medical condition?
 12. What is the total number of cases per age group?
 13. Which is the most used medication for Asthma?
@@ -35,7 +35,7 @@ The objectives of this analysis is to identify the most used medication to treat
 16. Which is the most used medication for Cancer?
 17. Which is the most used medication for Hypertension?
 18. Which is the most used medication for Obesity?
-19.  What is the distribution of Patients per doctor?
+19. What is the distribution of Patients per doctor?
 20. Which patients were attended to by Michael Johnson?
 
 
