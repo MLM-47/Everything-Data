@@ -16,7 +16,7 @@ Medication analysis:
 The objectives of this analysis is to identify the most used medication to treat the diffrent kind of medical conditions with an aim to know what to recommend most to patinets. 
 
 
-# HEALTH ANALYSIS QUESTIONS:
+# HEALTH-Records ANALYSIS QUESTIONS:
 1. Which insurance provider was most used by patients?
 2. What is the blood group distribution by gender?
 3. Which medical condition had the highest number of cases recorded?
