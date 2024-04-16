@@ -195,7 +195,7 @@ WHERE Branch = 'C'
 GROUP BY Gender
 
 --7. what time of the day do customers give more ratings 
-SELECT Time_Of_Day, AVG(Rating) as TotalRatings 
+SELECT Time_Of_Day, COUNT(Rating) as TotalRatings 
 FROM WalmartSalesData
 GROUP BY Time_Of_Day
 ORDER BY  TotalRatings DESC 
